@@ -42,7 +42,7 @@
     "clsx": "^1.1.0",
     "preact": "^10.5.9",
     "rxjs": "^6.6.3",
-    "eth-rpc-errors": "4.0.2",
+    "eth-rpc-errors": "4.0.3",
     "@metamask/safe-event-emitter": "2.0.0",
     "eth-json-rpc-filters": "4.2.2",
     "eth-block-tracker": "4.4.3",
