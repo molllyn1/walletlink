@@ -45,7 +45,7 @@
     "eth-rpc-errors": "4.0.2",
     "@metamask/safe-event-emitter": "2.0.0",
     "eth-json-rpc-filters": "4.2.2",
-    "eth-block-tracker": "4.4.3",
+    "eth-block-tracker": "7.0.1",
     "json-rpc-engine": "6.1.0"
   },
   "devDependencies": {
