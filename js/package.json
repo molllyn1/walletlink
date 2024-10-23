@@ -44,7 +44,7 @@
     "rxjs": "^6.6.3",
     "eth-rpc-errors": "4.0.2",
     "@metamask/safe-event-emitter": "2.0.0",
-    "eth-json-rpc-filters": "4.2.2",
+    "eth-json-rpc-filters": "5.1.0",
     "eth-block-tracker": "4.4.3",
     "json-rpc-engine": "6.1.0"
   },
